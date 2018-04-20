@@ -1,3 +1,3 @@
 # HeroChessAI-Scripts
 
-![實機畫面](https://imgur.com/a/hbITNGM)
+![game preview](https://i.imgur.com/A94V5Kz.jpg)
